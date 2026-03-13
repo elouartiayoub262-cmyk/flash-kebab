@@ -1,0 +1,7 @@
+{
+  "name": "Flash Kebab",
+  "description": "La mejor comida rápida con ingredientes frescos y entrega ultra-rápida.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
